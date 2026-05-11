@@ -1,0 +1,1 @@
+https://blog.p-y.wtf/diy-your-own-dependency-injection-library
